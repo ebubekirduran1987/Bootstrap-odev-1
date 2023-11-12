@@ -1,0 +1,82 @@
+.custom-link1 {
+
+    color: red;
+}
+.custom-link2 {
+
+    color: white;
+}
+.custom-link3 {
+
+    color: white;
+}
+.custom-link4 {
+
+    color: white;
+}
+
+.container-fluid {
+    background-color: #E9ECEF;
+    margin: 0px;
+    padding: 0px;
+}
+
+.jumbotron {
+    display: flex;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+
+.inline-header {
+
+    margin-right: 30px;
+}
+
+article{
+    margin-bottom: 0;
+    padding-bottom: 70px;
+    
+}
+
+.info2 {
+ margin-bottom: 15px;
+ padding-bottom: 70px;
+}
+
+.infoA {
+    margin-bottom: 10px;
+    padding-bottom: 70px;
+    margin-top: 500px;
+}
+
+.gorsel-aralik {
+    margin-bottom: 60px; /* İstediğiniz boşluğu ayarlayın */
+}
+
+.center {
+    text-align: center;
+    
+}
+
+button {
+    background-color: #534caf; /* Yeşil renk örneği */
+    color: white; /* Yazı rengi */
+     /* Butonun iç boşluğu */padding: 10px 20px;
+    border: none; /* Kenarlık yok */
+    border-radius: 5px; /* Köşeleri yuvarlat */
+    cursor: pointer; /* İmleci el işareti yap */
+    font-style: normal;
+}
+
+
+
+/* 
+.card {
+    width: 10%; 
+    float: left;
+    
+}
+*/
+
+
